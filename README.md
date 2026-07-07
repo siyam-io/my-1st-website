@@ -1,20 +1,23 @@
-# Siyam | Creative Developer Landing Page
+# Nexcent | Corporate Agency Landing Page
 
 **Live Demo:** [https://ssiyam0123.github.io/my-1st-website/](https://ssiyam0123.github.io/my-1st-website/)
 
-A stunning, premium, and fully mobile-responsive landing page for a Creative Frontend Developer. Features a dark glassmorphism theme, smooth scrolling, interactive cards, and a modern layout.
+A beautiful, fully responsive corporate landing page for Nexcent, custom-crafted based on modern design standards. It showcases services, client logos, community cards, statistics, client testimonials, and blog resources.
 
 ## Features
-- **Hero Banner**: Engaging title with modern orange gradient, intro, call-to-actions, and a glowing background blob.
-- **Specialized Services**: Dynamic cards for Web Development, UI/UX Design, and Responsive Design with sleek hover scales.
-- **Featured Work**: Showcases links to actual live demo projects (like `new-year-project` and `my-web-dev-portfolio`).
-- **Connect Section**: A glassmorphic contact form and social media linking.
-- **Mobile Menu**: Responsive hamburger menu for mobile devices.
+- **Hero Slider Section**: Elegant title with green accents and clean register actions.
+- **Client Logos**: A list of Fortune 500+ client integrations.
+- **Community Management**: Three focused value proposition cards for different organisation groups.
+- **Case Studies / Highlights**: Full-width featured sections showing illustration-rich features.
+- **Visual Stats Counter**: A 2x2 grid displaying members, clubs, event bookings, and payments.
+- **Client Testimonial**: Tim Smith (Tim Smith/British Dragon Boat Association) quote section.
+- **Insights & Blogs**: Three blog cards with overlay info card design.
+- **Responsive Footer**: Dark mode footer containing company, support, and subscription form.
 
 ## Technologies Used
 - HTML5
-- CSS3 (Vanilla CSS, Glassmorphism, Responsive Grid & Flexbox)
-- Fonts: Google Fonts (Outfit & Plus Jakarta Sans)
+- CSS3 (Vanilla CSS, Responsive Grid & Flexbox)
+- Fonts: Google Fonts (Inter)
 - Icons: FontAwesome CDN
 
 ## Setup & Running Locally
