@@ -1,6 +1,6 @@
-# Nexcent | Corporate Agency Landing Page
+﻿# Nexcent | Corporate Agency Landing Page
 
-**Live Demo:** [https://siyam-io.github.io/my-1st-website/](https://siyam-io.github.io/my-1st-website/)
+**Live Demo:** [https://siyam-my-1st-website.vercel.app/](https://siyam-my-1st-website.vercel.app/)
 
 A beautiful, fully responsive corporate landing page for Nexcent, custom-crafted based on modern design standards. It showcases services, client logos, community cards, statistics, client testimonials, and blog resources.
 
@@ -24,3 +24,4 @@ A beautiful, fully responsive corporate landing page for Nexcent, custom-crafted
 1. Clone this repository.
 2. Open `index.html` in your favorite web browser.
 3. (Optional) Run using a local development server like Live Server in VS Code.
+
